@@ -1,3 +1,4 @@
 # ignored files/folders
 target/
 .DS_Store
+node_modules
