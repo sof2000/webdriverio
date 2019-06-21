@@ -1,4 +1,4 @@
-# Astria Group LLC 2019
+# Asteria Group LLC 2019 www.asteriag.com
 #!/bin/bash
 # Ask an Engineer about type of browser
 echo NEXT QUESTION:
