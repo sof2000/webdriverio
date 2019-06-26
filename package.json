@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sof2000/webdriverio.git"
+  },
   "devDependencies": {
     "@wdio/cli": "^5.10.7",
     "@wdio/jasmine-framework": "^5.9.4",

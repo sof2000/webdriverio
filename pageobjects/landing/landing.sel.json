@@ -1,0 +1,16 @@
+{
+    "pageText": {
+        "siteTitleTextCss": ".site-title>a",  
+        "siteTitleDescriptionTextCss": ".site-description",
+        "menuTextCss": "#top-menu",
+        "menuLinkFirstTextCss": ".menu-main-menu-container>ul>li:nth-child(1)>a",
+        "menuLinkSecondTextCss": ".menu-main-menu-container>ul>li:nth-child(2)>a",
+        "menuLinkThirdTextCss": ".menu-main-menu-container>ul>li:nth-child(3)>a",
+        "menuLinkForthTextCss": ".menu-main-menu-container>ul>li:nth-child(4)>a",
+        "menuLinkFifthTextCss": ".menu-main-menu-container>ul>li:nth-child(5)>a",
+        "menuLinkSixthTextCss": ".menu-main-menu-container>ul>li:nth-child(6)>a",
+        "entryHeaderTextCss": "header>h2",
+        "entryContentFirstTextCss": ".entry-content>p:nth-child(1)",
+        "entryContentSecondTextCss": ".entry-content>p:nth-child(2)"
+    }
+}

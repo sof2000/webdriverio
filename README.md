@@ -1,8 +1,8 @@
-# # Asteria Group LLC 2019 www.asteriag.com
+## Asteria Group LLC 2019 www.asteriag.com
 # webdriverio
 Framework for Automaton testing webdriverio and node.js(javascript)
 
-# webdriverio-nodejs-javascript-jasmine
+# webdriverio-nodejs-javascript-jasmine-pom
 
 # Environment Setup
 
