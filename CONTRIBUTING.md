@@ -1,6 +1,28 @@
 Contributing
 ============
 
+Developing for this framework requires that you have the following applications / tools installed:
+
+* Bash - Available for both Mac OS X and Windows
+* [NodeJS](https://nodejs.org/en/download/current/) - Read the Operating System Specific Development Environment Setup Section below prior to 
+downloading
+* [NPM] - Read the Operating System Specific Development Environment Setup Section below prior to downloading, after adding new packages run 
+"npm install" for verifying that npm doesn't have any issues.
+* [Visual Studio Code](https://code.visualstudio.com/download) 
+ * Following Extensions are Required Installs:
+  * Beautify (publisher: HookyQR)
+  * Code Spell Checker (publisher: Street Side Software)
+  * Docker (publisher: Microsoft)
+  * ESLint (publisher: Dirk Baeumer)
+  * Git History (publisher: Don Jayamanne)
+  * GitLens (publisher: Eric Amodio)
+  * vscode-icons (publisher: VSCode Icons Team)
+ * Following Extensions are Recommended Installs:
+  * Rest Client (publisher: Huachao Mao)
+  * XML Tools (publisher: Josh Johnson)
+* Git with appropriate installation (if you plan to use source control system)
+
+
 Webdriver-manager specific rules
 -------------------------
 
