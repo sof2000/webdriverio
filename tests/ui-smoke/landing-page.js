@@ -10,11 +10,11 @@ describe('Asteria Demo web site', () => {
         const title = await browser.getTitle();
         expect(title).toBe('Asteria Bank – We Test For Better Software');
     });
-    xit ('Checking main elements Landing page', () =>{
+    it ('Checking main elements Landing page', () =>{
         expect(LandingPage.siteTitle().getText()).toBe(LandingPageText.pageText.siteTitleText);
         LandingPage.clickFirstLink();
     });
-    describe('Text element verification', () => {
+    xdescribe('Text element verification', () => {
         const testTextElements = Object.keys(LandingPageText['pageText']);
         testTextElements.forEach(element => {
         it(`Text element verification: ${element}`, () => {
